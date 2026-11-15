@@ -323,6 +323,7 @@ Recommended next steps: deeper regional analysis, profitability measurement, con
 ## 👤 Author
 
 **Manikandan S**
+
 Aspiring Data Analyst | Learning Excel and developing practical data analysis projects.
 
 * 🔗 LinkedIn: https://www.linkedin.com/in/manikandan042/
